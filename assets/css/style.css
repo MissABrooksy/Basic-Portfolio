@@ -1,0 +1,62 @@
+body {
+    background-image: url("../images/concrete_seamless.png");
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #333;
+}
+
+nav {
+    background-color: aliceblue;
+    float: right;
+    margin-right: 120px;
+    margin-top: 25px;
+   
+
+
+}
+
+.container {
+    background-color: white;
+    border: 20px;
+}
+
+#name {
+    background-color: teal;
+    color: antiquewhite;
+    padding: 10px 10px 0px 10px;
+    border: 10px;
+    float: left;
+    margin-left: 150px;
+    margin-bottom: 0px;
+}
+
+#aboutme {
+ background-color: white;
+ border-color: black;
+ border-style: thin;
+ padding: 10px;
+ float: left;
+ width: 80%;
+ margin-left: 150px;
+ border-bottom: 1px;
+
+}
+
+#Andrea-Image {
+    padding: 10px;
+    float: left;
+    margin-top: 0;
+}
+
+p {
+  
+    color: black;
+    line-height: 3;
+    padding: 50px;
+    margin-right: 10px;
+  margin-top: 0;  
+}
+
+#ContactInfo {
+    text-align: center;
+    clear: both;
+}
